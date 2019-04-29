@@ -1,0 +1,84 @@
+body {
+	background-color:#F8ECC2;
+}
+
+p, h1, h2, h3 {
+	font-family: "Times New Roman", "Arial", sans-serif;
+}
+
+h3 {
+	font-size: small;
+	font-weight: bold
+}
+
+h2 {
+	font-size: large;
+	font-weight: bolder;
+	color:#FF7F50;
+}
+
+h1 {
+	font-size: x-large;
+	font-weight: bolder;
+	color:#191970;
+}
+
+p {
+	font-size: larger;
+	font-weight: lighter;
+	color:#000080;
+}
+
+
+figcaption{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+em {
+	color: magenta;
+}
+
+img {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+a:visited {
+	color: firebrick;
+}
+
+a:hover {
+	background: gold;
+}
+
+a:active {
+	color: red;
+}
+
+iframe {
+	width: 100%;
+}
+
+figcaption {
+	font-family: "Arial";
+	;
+}
+
+.column{
+	float: left:
+	width:50%;
+	padding:5px;
+}
+
+.row::after{
+	content:"";
+	clear:both;
+	display: table;
+}
+
+
+
+
